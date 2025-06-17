@@ -40,8 +40,7 @@ The card automatically scales on smaller screens. The border, text, and layout a
 ## 📸 Preview
 
 > Hover to reveal details
-
-![Animated Border Demo](./screenshot.png)
+> https://nazia-99.github.io/-Animated-Border-Card---HTML-CSS/
 
 ---
 
