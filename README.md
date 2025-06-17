@@ -37,7 +37,7 @@ The card automatically scales on smaller screens. The border, text, and layout a
 
 ---
 
-## 📸 Preview
+🌐 Live Demo
 
 > Hover to reveal details
 > https://nazia-99.github.io/-Animated-Border-Card---HTML-CSS/
@@ -49,3 +49,12 @@ The card automatically scales on smaller screens. The border, text, and layout a
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nazia-99/Animated-Border-Card.git
+
+
+## 📸 Youtube Tutorial
+Coming soon...
+
+🙌 Credits
+Created with ❤️ by Code with Nazia
+
+
